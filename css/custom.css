@@ -10,3 +10,7 @@ footer {
     margin: 60px 0;
     text-align: center;
 }
+
+.img-responsive {
+    height: 250px;
+}
